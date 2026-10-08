@@ -1,0 +1,13 @@
+{
+  "name": "tafawwuq12",
+  "version": "1.0.0",
+  "description": "منصة اختبارات اختيار من متعدد لطلبة الصف الثاني عشر في سلطنة عُمان مع لوحة تحكم",
+  "main": "server.js",
+  "private": true,
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
